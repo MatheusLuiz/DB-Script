@@ -27,9 +27,7 @@ Ele organiza a estrutura em pastas padrão, gera arquivos iniciais (`README.md`,
 
 ---
 
-## 📂 Estrutura Final do Projeto
-
-Após a execução, a estrutura ficará assim:
+### Considerações Finais
 
 Baixe o script e execute no terminal (linux ou MacOs):
 
