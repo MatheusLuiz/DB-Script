@@ -6,7 +6,7 @@ Ele organiza a estrutura em pastas padrão, gera arquivos iniciais (`README.md`,
 ---
 
 
-<img alt="Logo - Rocketseat" src="github/exemplo.png" />
+<img alt="Script" src="github/exemplo.png" />
 
 
 ## 🚀 Funcionalidades
