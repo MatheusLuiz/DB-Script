@@ -29,9 +29,11 @@ cat > "$PROJECT_DIR/README.md" <<EOF
 EOF
 
 cat > "$PROJECT_DIR/.gitignore" <<EOF
-node_modules/
-.env
 *.log
+EOF
+
+cat > "$PROJECT_DIR/run.sh" <<EOF
+
 EOF
 
 cat > "$PROJECT_DIR/migrations/master.sql" <<EOF
